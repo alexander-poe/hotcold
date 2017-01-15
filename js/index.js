@@ -1,6 +1,6 @@
 
 require('babel-polyfill');
-import * as actions from './actions/index'
+
 import ReactDOM from 'react-dom'
 import React from 'react'
 import {Provider} from 'react-redux';
